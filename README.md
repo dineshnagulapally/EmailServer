@@ -9,6 +9,7 @@ Use a 16-character password with Gmail username in your application  (ex: Passwo
 2. change the address of your resume in controller file
 
 attachPart.attachFile("C:\\Users\\dines\\Desktop\\Dinesh_Resume.pdf"); //replace your resume location
+change the email subject and body also.
 
 3.install postman application and sign with any of your google account
 
